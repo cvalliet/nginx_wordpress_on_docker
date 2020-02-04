@@ -5,9 +5,9 @@ Wordpress on docker (using nginx, php and mariadb)
 
 You must create the next directories :
 
-    mkdir -p nginx
     mkdir -p db-data
     mkdir -p logs/nginx
+    mkdir -p wordpress
     
 ## Container management
 
